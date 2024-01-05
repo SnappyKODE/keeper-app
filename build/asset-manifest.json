@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/todolist/static/js/main.634eb0aa.js",
-    "index.html": "/todolist/index.html",
-    "main.634eb0aa.js.map": "/todolist/static/js/main.634eb0aa.js.map"
+    "main.js": "/keeper-app/static/js/main.634eb0aa.js",
+    "index.html": "/keeper-app/index.html",
+    "main.634eb0aa.js.map": "/keeper-app/static/js/main.634eb0aa.js.map"
   },
   "entrypoints": [
     "static/js/main.634eb0aa.js"
